@@ -21,6 +21,27 @@ The workflow includes:
 
 ---
 
+## 📂 Project Structure
+
+1. EDA
+   - 0_Initial_Data_Assesment.ipynb
+   - 1_Target_variable_analysis.ipynb
+   - 2_Feature_Overview.ipynb
+
+2. Data_Preprocesing
+   - 0_Feature_Elimination.ipynb
+   - 1_Handling_missing_values.ipynb
+   - 2_Handling_Outliers.ipynb
+   - 3_Feature_Engineering.ipynb
+   - 4_Class_Imbalance_Handle.ipynb
+
+3. Modeling
+   - 0_Ensemble_Model_Implementationn.ipynb
+   - 1_Hyper_Parameter_Tuning.ipynb
+   - 2_Threshhold_Optimization.ipynb
+   - 3_Model_Evaluation.ipynb
+
+
 
 ## 🔍 Key Features of the Project
 
